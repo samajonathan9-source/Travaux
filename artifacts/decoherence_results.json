@@ -1,0 +1,58 @@
+[
+  {
+    "gamma": 0.0,
+    "psig_initial": 0.0,
+    "psig_final": 0.0821040113148811,
+    "psig_max": 0.1250486719877678,
+    "purity_final": 1.0000000000000018,
+    "transition_detectee": true
+  },
+  {
+    "gamma": 0.0001,
+    "psig_initial": 0.0,
+    "psig_final": 0.08198641833675213,
+    "psig_max": 0.12600168126386402,
+    "purity_final": 0.9803947195761411,
+    "transition_detectee": true
+  },
+  {
+    "gamma": 0.0005,
+    "psig_initial": 0.0,
+    "psig_final": 0.08112981802787178,
+    "psig_max": 0.12913059026961826,
+    "purity_final": 0.9093653765389949,
+    "transition_detectee": true
+  },
+  {
+    "gamma": 0.001,
+    "psig_initial": 0.0,
+    "psig_final": 0.0792749644635008,
+    "psig_max": 0.13159936530710503,
+    "purity_final": 0.8351600230178249,
+    "transition_detectee": true
+  },
+  {
+    "gamma": 0.005,
+    "psig_initial": 0.0,
+    "psig_final": 0.055931120700872916,
+    "psig_max": 0.09814769553753444,
+    "purity_final": 0.5676676416183037,
+    "transition_detectee": true
+  },
+  {
+    "gamma": 0.01,
+    "psig_initial": 0.0,
+    "psig_final": 0.028772991853623142,
+    "psig_max": 0.06320532814878976,
+    "purity_final": 0.5091578194443673,
+    "transition_detectee": true
+  },
+  {
+    "gamma": 0.05,
+    "psig_initial": 0.0,
+    "psig_final": 1.102796654672833e-05,
+    "psig_max": 0.038343646407254184,
+    "purity_final": 0.5000000010305768,
+    "transition_detectee": true
+  }
+]

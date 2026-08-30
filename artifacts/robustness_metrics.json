@@ -1,0 +1,73 @@
+{
+  "results": [
+    {
+      "delta": -0.8,
+      "phase": "topologique",
+      "exact_score": 0.25765705852488996,
+      "bruit_score": 0.2473303669080012,
+      "bruit_std": 0.1047885451800819
+    },
+    {
+      "delta": -0.6000000000000001,
+      "phase": "topologique",
+      "exact_score": 0.23496914515711045,
+      "bruit_score": 0.20188996037422768,
+      "bruit_std": 0.1043506265107406
+    },
+    {
+      "delta": -0.4,
+      "phase": "topologique",
+      "exact_score": 0.2530731858973757,
+      "bruit_score": 0.1571602991500322,
+      "bruit_std": 0.10254394084630514
+    },
+    {
+      "delta": -0.19999999999999996,
+      "phase": "topologique",
+      "exact_score": 0.14226965424045213,
+      "bruit_score": 0.062052056104488496,
+      "bruit_std": 0.0973250147175697
+    },
+    {
+      "delta": 0.0,
+      "phase": "transition",
+      "exact_score": 0.011362347407131268,
+      "bruit_score": -0.022961149914494487,
+      "bruit_std": 0.1054535707738325
+    },
+    {
+      "delta": 0.19999999999999996,
+      "phase": "triviale",
+      "exact_score": -0.07079525335912926,
+      "bruit_score": -0.08537207801757994,
+      "bruit_std": 0.10256319992186495
+    },
+    {
+      "delta": 0.40000000000000013,
+      "phase": "triviale",
+      "exact_score": -0.12549607946340272,
+      "bruit_score": -0.12617186818532028,
+      "bruit_std": 0.0919825601419086
+    },
+    {
+      "delta": 0.6000000000000001,
+      "phase": "triviale",
+      "exact_score": -0.16366432662524422,
+      "bruit_score": -0.1465518514922875,
+      "bruit_std": 0.07719021027822233
+    },
+    {
+      "delta": 0.8,
+      "phase": "triviale",
+      "exact_score": -0.1907549718659438,
+      "bruit_score": -0.1539918359882218,
+      "bruit_std": 0.06394276198311591
+    }
+  ],
+  "robustesse": {
+    "topo_moyen": 0.1671081706341874,
+    "triv_moyen": -0.12802190842085237,
+    "contraste": 0.29513007905503974,
+    "contrast_positif": true
+  }
+}

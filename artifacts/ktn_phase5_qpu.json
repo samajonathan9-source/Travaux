@@ -1,0 +1,23 @@
+{
+  "woven": {
+    "job_id": "da81b5m0ukec7383sf20",
+    "score_qpu": 0.18229092019380597,
+    "edge_qpu": 0.2646484375,
+    "psig_qpu": 0.161071755571214,
+    "score_exact": 0.2668651809254037,
+    "edge_exact": 0.3333333333333333,
+    "psig_exact": 0.18006050449181765,
+    "backend": "ibm_fez"
+  },
+  "aligned": {
+    "job_id": "dcc12f86-2895-42a4-9fbd-3f0fb6b6810b",
+    "score_qpu": -0.0778021972133845,
+    "edge_qpu": 0.0030517578125,
+    "psig_qpu": 0.0,
+    "score_exact": -0.06931471805599453,
+    "edge_exact": 0.0,
+    "psig_exact": 0.0
+  },
+  "contrast_qpu": 0.26009311740719043,
+  "contrast_exact": 0.3361798989813982
+}

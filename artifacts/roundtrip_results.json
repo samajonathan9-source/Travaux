@@ -1,0 +1,9 @@
+{
+  "t_leg": 30.0,
+  "aire_hysteresis_psig": 0.008780623521585047,
+  "aire_hysteresis_edge": 0.014961209526734225,
+  "psig_fin_retour": 0.009500674766738437,
+  "psig_ad_fin": 0.0,
+  "ecart_final_psig": 0.009500674766738437,
+  "ecart_final_edge": 0.012499798818118833
+}

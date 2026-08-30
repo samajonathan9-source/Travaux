@@ -1,0 +1,21 @@
+{
+  "params": {
+    "n_sites": 16,
+    "delta_start": 0.4,
+    "delta_end": -0.4,
+    "t_ramp": 200.0,
+    "dt": 0.1,
+    "seuil_psig": 0.02,
+    "seuil_edge": 0.05
+  },
+  "t_transition_hamiltonian": 100.0,
+  "t_gap_minimum": 200.0,
+  "t_psig_adiabatique": 121.10000000000001,
+  "t_psig_etat_evolve": 121.30000000000001,
+  "t_edge_etat_evolve": 96.4,
+  "retard_psig_vs_hamiltonien": 21.30000000000001,
+  "retard_edge_vs_hamiltonien": -3.5999999999999943,
+  "avance_psig_adiab_vs_hamiltonien": 21.10000000000001,
+  "psig_final": 0.0813554873437109,
+  "psig_adiab_final": 0.08142342952471127
+}
